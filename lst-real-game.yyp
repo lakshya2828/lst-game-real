@@ -3,9 +3,11 @@
   "resourceVersion": "1.6",
   "name": "lst-real-game",
   "resources": [
-    {"id":{"name":"obj_","path":"objects/obj_/obj_.yy",},"order":0,},
+    {"id":{"name":"obj_main_character","path":"objects/obj_main_character/obj_main_character.yy",},"order":0,},
+    {"id":{"name":"obj_ememie","path":"objects/obj_ememie/obj_ememie.yy",},"order":1,},
     {"id":{"name":"world_tileset","path":"sprites/world_tileset/world_tileset.yy",},"order":3,},
     {"id":{"name":"Spr_enemie","path":"sprites/Spr_enemie/Spr_enemie.yy",},"order":0,},
+    {"id":{"name":"obj_ground","path":"objects/obj_ground/obj_ground.yy",},"order":2,},
     {"id":{"name":"spr_ground","path":"sprites/spr_ground/spr_ground.yy",},"order":4,},
     {"id":{"name":"spr_main_character","path":"sprites/spr_main_character/spr_main_character.yy",},"order":1,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
